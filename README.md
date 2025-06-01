@@ -13,7 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love combining technology with social impact to create meaningful solutions.
 -->
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on AI-powered ChatBot Assistant for specially-abled children<br>
+👯 I’m looking to collaborate on AI, machine learning, and accessible technology projects<br>
+🤝 I’m looking for help with advanced natural language processing and voice integration<br>
+🌱 I’m currently learning backend development and cloud deployment<br>
+💬 Ask me about Python, React Native, AI/ML, and automation<br>
+⚡ Fun fact: I love combining technology with social impact to create meaningful solutions
 
 
 # 💻 Tech Stack:
