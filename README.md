@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love combining technology with social impact to create meaningful solutions.
 -->
 # 💫 About Me:
-🔭 I’m currently working on AI-powered ChatBot Assistant for specially-abled children<br>
-👯 I’m looking to collaborate on AI, machine learning, and accessible technology projects<br>
-🤝 I’m looking for help with advanced natural language processing and voice integration<br>
-🌱 I’m currently learning backend development and cloud deployment<br>
-💬 Ask me about Python, React Native, AI/ML, and automation<br>
-⚡ Fun fact: I love combining technology with social impact to create meaningful solutions
+🔭 I’m currently working on AI-powered ChatBot Assistant for specially-abled children.<br>
+👯 I’m looking to collaborate on AI, machine learning, and accessible technology projects.<br>
+🤝 I’m looking for help with advanced natural language processing and voice integration.<br>
+🌱 I’m currently learning backend development and cloud deployment.<br>
+💬 Ask me about Python, React Native, AI/ML, and automation.<br>
+⚡ Fun fact: I love combining technology with social impact to create meaningful solutions.
 
 
 # 💻 Tech Stack:
@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jatin-35&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-35&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 😂 Random Dev Meme
+<img src="https://randommeme-five.vercel.app/" alt="Random Developer Meme" style="height: 400px;"/>
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Jatin-35&limit=5&theme=dark&combine_all_yearly_contributions=true)
