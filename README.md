@@ -33,6 +33,27 @@ Here are some ideas to get you started:
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=flat&logo=mongodb&logoColor=white) 
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) 
 ![VS Code](https://img.shields.io/badge/visual_studio_code-%23007ACC.svg?style=flat&logo=visual-studio-code&logoColor=white)
+![python-dotenv](https://img.shields.io/badge/python--dotenv-%2300C6A7.svg?style=flat&logo=python&logoColor=white)
+![groq](https://img.shields.io/badge/groq-%23F0DB4F.svg?style=flat&logo=graphql&logoColor=black)
+![AppOpener](https://img.shields.io/badge/appopener-%2300C6A7.svg?style=flat&logo=appveyor&logoColor=white)
+![pywhatkit](https://img.shields.io/badge/pywhatkit-%231DA1F2.svg?style=flat&logo=python&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/beautifulsoup-%23FFC0CB.svg?style=flat&logo=python&logoColor=white)
+![Pillow](https://img.shields.io/badge/pillow-%2339328A.svg?style=flat&logo=python&logoColor=white)
+![Rich](https://img.shields.io/badge/rich-%23FF0000.svg?style=flat&logo=python&logoColor=white)
+![requests](https://img.shields.io/badge/requests-%23FF6C37.svg?style=flat&logo=python&logoColor=white)
+![keyboard](https://img.shields.io/badge/keyboard-%2333CCFF.svg?style=flat&logo=python&logoColor=white)
+![cohere](https://img.shields.io/badge/cohere-%23000000.svg?style=flat&logo=python&logoColor=white)
+![googlesearch-python](https://img.shields.io/badge/googlesearch-%2300BFFF.svg?style=flat&logo=google&logoColor=white)
+![selenium](https://img.shields.io/badge/selenium-%23807A00.svg?style=flat&logo=selenium&logoColor=white)
+![mtranslate](https://img.shields.io/badge/mtranslate-%230072C1.svg?style=flat&logo=python&logoColor=white)
+![pygame](https://img.shields.io/badge/pygame-%230080FF.svg?style=flat&logo=python&logoColor=white)
+![edge-tts](https://img.shields.io/badge/edge--tts-%230078D7.svg?style=flat&logo=microsoft&logoColor=white)
+![PyQt5](https://img.shields.io/badge/pyqt5-%23008080.svg?style=flat&logo=qt&logoColor=white)
+![webdriver-manager](https://img.shields.io/badge/webdriver_manager-%23005050.svg?style=flat&logo=python&logoColor=white)
+![serpapi](https://img.shields.io/badge/serpapi-%23404040.svg?style=flat&logo=google&logoColor=white)
+![tensorflow](https://img.shields.io/badge/tensorflow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white)
+![urllib](https://img.shields.io/badge/urllib-%23000000.svg?style=flat&logo=python&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Jatin-35&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
