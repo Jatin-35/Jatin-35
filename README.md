@@ -60,10 +60,10 @@ Here are some ideas to get you started:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Jatin-35&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-35&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 😂 Random Dev Meme
+# 😂 Random Dev Meme
 <img src="https://camo.githubusercontent.com/97085744c047d8efae5827e68a41f69d79f81e52bbdfd07ccd582d3720a5cea0/68747470733a2f2f692e70696e696d672e636f6d2f353634782f30642f31382f35312f30643138353133663334656439346162323432396534663937373030643830332e6a7067" alt="Random Developer Meme" style="height: 400px;"/>
 
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Jatin-35&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
