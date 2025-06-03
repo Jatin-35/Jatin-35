@@ -56,9 +56,21 @@ Here are some ideas to get you started:
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Jatin-35&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Jatin-35&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-35&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Jatin-35&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+    </td>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=Jatin-35&theme=dark&hide_border=false" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jatin-35&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+    </td>
+  </tr>
+</table>
+
 
 # 😂 Random Dev Meme
 <img src="https://camo.githubusercontent.com/97085744c047d8efae5827e68a41f69d79f81e52bbdfd07ccd582d3720a5cea0/68747470733a2f2f692e70696e696d672e636f6d2f353634782f30642f31382f35312f30643138353133663334656439346162323432396534663937373030643830332e6a7067" alt="Random Developer Meme" style="height: 400px;"/>
