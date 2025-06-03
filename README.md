@@ -63,7 +63,7 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api?username=Jatin-35&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.demolab.com/?user=Jatin-35&theme=dark&hide_border=false" />
+      <img src="https://github-readme-streak-stats.demolab.com/?user=Jatin-35&theme=dark&hide_border=false"/>
     </td>
   </tr>
 </table>
