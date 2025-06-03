@@ -66,6 +66,28 @@ Here are some ideas to get you started:
 # 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Jatin-35&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+# 🤝 Connect With Me
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jtjasrotia123@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jatin-jasrotia/)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jt_jasrotia/)
+[![Resume](https://img.shields.io/badge/RESUME-25D366?style=for-the-badge&logo=google-drive&logoColor=white)](https://your-resume-link.com)
+
+</div>
+
+---
+
+
+
+# 👁️‍🗨️ Profile Visitors  
+<div align="center">
+<br>
+<img src="https://profile-counter.glitch.me/Jatin-35/count.svg" />
+
+</div>
+
 
 
 ---
