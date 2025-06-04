@@ -63,8 +63,9 @@ Here are some ideas to get you started:
       <img src="https://github-readme-stats.vercel.app/api?username=Jatin-35&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
     </td>
     <td>
-      [![GitHub Streak]
-      (https://github-readme-streak-stats-eight.vercel.app/?user=Jatin-35&theme=dark&hide_border=false)](https://git.io/streak-stats)
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Jatin-35&theme=dark&hide_border=false" />
+<!--       [![GitHub Streak]
+      (https://github-readme-streak-stats-eight.vercel.app/?user=Jatin-35&theme=dark&hide_border=false)](https://git.io/streak-stats) -->
     </td>
   </tr>
 </table>
