@@ -3,7 +3,7 @@
 <!--
 **Jatin-35/Jatin-35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
 
 - 🔭 I’m currently working on an AI-powered ChatBot Assistant to help specially-abled children learn and communicate better.
 - 👯 I’m looking to collaborate on projects involving AI, machine learning, and accessible tech.
