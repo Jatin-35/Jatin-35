@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I love combining technology with social impact to create meaningful solutions.
 -->
 # 💫 About Me:
-🔭 I’m currently working on AI-powered ChatBot Assistant for day-to-day tasks and automation.<br> 
+🔭 I’m currently working on MERN Chat App with Google GEMINI.<br> 
 👯 I’m looking to collaborate on AI, machine learning, and accessible technology projects.<br>
 🤝 I’m looking for help with advanced natural language processing and voice integration.<br>
 🌱 I’m currently learning backend development and cloud deployment.<br>
